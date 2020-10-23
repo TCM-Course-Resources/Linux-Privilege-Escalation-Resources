@@ -6,7 +6,9 @@ TCM Website: https://www.thecybermentor.com/
 
 TCM-Sec: https://tcm-sec.com/
 
-Course: https://www.udemy.com/course/linux-privilege-escalation-for-beginners/
+Course: 
+* https://www.udemy.com/course/linux-privilege-escalation-for-beginners/ (udemy)
+* https://academy.tcm-sec.com/p/linux-privilege-escalation (tcm academy)
 
 Twitch: https://www.twitch.tv/thecybermentor
 
